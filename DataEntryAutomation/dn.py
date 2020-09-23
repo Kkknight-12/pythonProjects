@@ -4,7 +4,7 @@ directory = r'/Users/knight/Documents'
 
 
 def getfiles():
-    # enmpty list to store the pdfFile names
+    # empty list to store the pdfFile names
     name = []
     """
     loop will iter over all the files and store 
